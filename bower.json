@@ -1,6 +1,23 @@
 {
-  "name": "nao-eh-boato",
+  "name": "budjs",
   "dependencies": {
-    "angular": "latest"
+    "angular": "latest",
+    "bootstrap": "3.2.0",
+    "bootstrap-validator": "latest",
+    "d3": "3.4.11",
+    "datatables": "latest",
+    "fancybox" : "2.1.5",
+    "jquery-knob" : "1.2.11",
+    "flot" : "0.8.3",
+	"select2" : "3.5.1",
+	"fullcalendar" : "2.1.1",
+	"jquery" : "2.1.1",
+	"jquery-ui" : "1.11.1",
+	"Justified-Gallery" : "3.2.0 ",
+	"moment" : "2.8.3",
+	"raphael" : "2.1.2 ",
+	"jquery.sparkline.build" : "2.1.2",
+	"tinymce" : "4.1.5",
+	"bower-xcharts" : "0.3.0"
   }
 }
